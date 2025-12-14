@@ -1,50 +1,64 @@
-# Hi 👋, I'm Vansh Ahluwalia
-
-🎓 BCA Student | 💻 MERN & Next.js Developer | 🚀 Aspiring Software Engineer  
+<h1 align="center">Hi 👋, I'm Vansh Ahluwalia</h1>
+<h3 align="center">BCA Student | Full Stack Developer | MERN & Next.js</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently building **Full Stack Web Apps**
-- 🌱 Learning **Next.js, FastAPI, MongoDB & System Design**
-- 💡 Interested in **Web Development & Open Source**
-- 🎯 Goal: Crack **internships & GSoC 2026**
+- 🎓 BCA 2nd Year Student at **Amity University**
+- 💻 Full Stack Web Developer (MERN + Next.js)
+- 🌱 Currently learning **Backend, Databases & System Design**
+- 🚀 Building projects for **Internships & GSoC 2026**
+- 🧠 Strong interest in **Web Development & Problem Solving**
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:**  
-React.js | Next.js | HTML | CSS | Tailwind | JavaScript | TypeScript  
+## 🛠️ Tech Stack
 
-**Backend:**  
-Node.js | Express.js | FastAPI  
+### 🚀 Frontend
+- React.js
+- Next.js
+- HTML5, CSS3
+- Tailwind CSS
+- JavaScript
 
-**Database:**  
-MongoDB | MySQL  
+### ⚙️ Backend
+- Node.js
+- Express.js
+- FastAPI (Python)
 
-**Tools:**  
-Git | GitHub | Docker | VS Code  
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+
+### 🧰 Tools & Others
+- Git & GitHub
+- Docker (Basics)
+- VS Code
 
 ---
 
 ## 📌 Featured Projects
-🔹 **AI Resume Analyzer** – NLP based resume scoring system  
-🔹 **Real-Time Chat App** – Socket.IO + Next.js  
-🔹 **MERN Stack Projects**
+- 🔹 **AI Resume Analyzer** – Resume scoring using NLP
+- 🔹 **Real-Time Chat App** – Next.js + Socket.IO
+- 🔹 **MERN Stack Projects**
 
-👉 Check my repositories below 👇
+👉 Check pinned repositories below ⬇️
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh2905&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2905&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn:https://www.linkedin.com/in/vansh-ahluwalia-925335332/
+- 💼 LinkedIn: https://www.linkedin.com/in/vansh-ahluwalia-925335332/
 - 📧 Email: vanshahluwalia29@gmail.com
 
 ⭐ If you like my work, consider starring my repositories!
+
