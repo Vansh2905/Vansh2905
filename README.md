@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BCA 2nd Year Student at **Amity University**
+- 🎓 BCA 3nd Year Student at **Amity University**
 - 💻 Full Stack Web Developer (MERN + Next.js)
 - 🌱 Currently learning **Backend, Databases & System Design**
 - 🚀 Building projects for **Internships & GSoC 2026**
