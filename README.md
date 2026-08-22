@@ -39,7 +39,6 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 **AI Resume Analyzer** – Resume scoring using NLP
 - 🔹 **Real-Time Chat App** – Next.js + Socket.IO
 - 🔹 **MERN Stack Projects**
 
